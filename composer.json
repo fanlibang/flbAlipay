@@ -1,0 +1,12 @@
+{
+    "name": "fanlibang/flbalipay",
+    "description": "集分宝官方SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fanlibang",
+            "email": "wuxian@fanlibang.com"
+        }
+    ],
+    "require": {}
+}
