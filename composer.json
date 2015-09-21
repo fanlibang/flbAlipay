@@ -8,7 +8,12 @@
             "email": "wuxian@fanlibang.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "fanlibang/flbalipay": "~1.0"
+    },
     "autoload": {
         "files": ["aop/AopClient.php"]
     }
