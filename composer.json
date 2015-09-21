@@ -2,6 +2,7 @@
     "name": "fanlibang/flbalipay",
     "description": "集分宝官方SDK",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "fanlibang",
