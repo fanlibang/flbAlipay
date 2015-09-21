@@ -8,5 +8,8 @@
             "email": "wuxian@fanlibang.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": ["aop/AopClient.php"]
+    }
 }
