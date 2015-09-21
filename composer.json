@@ -2,13 +2,14 @@
     "name": "fanlibang/flbalipay",
     "description": "集分宝官方SDK",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "fanlibang",
             "email": "wuxian@fanlibang.com"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "require": {
         "php": ">=5.3.0"
     },
