@@ -1,4 +1,11 @@
 <?php
+
+require_once(__DIR__.'/request/'.AlipayPointBalanceGetRequest.php);
+require_once(__DIR__.'/request/'.AlipayPointBudgetGetRequest.php);
+require_once(__DIR__.'/request/'.AlipayPointOrderAddRequest.php);
+require_once(__DIR__.'/request/'.AlipayPointOrderGetRequest.php);
+require_once(__DIR__.'/request/'.AlipaySystemOauthTokenRequest.php);
+
 class AopClient {
 	//应用ID
 	public $appId;
